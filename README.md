@@ -7,7 +7,7 @@ A Software Engineer from São Paulo, Brazil <br/>
 
 ### :bar_chart: My Stats:
 <center>
-  <img align=“center” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=pxrob&layout=compact&theme=dracula” />
+  <img align=“center” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=therobpx&layout=compact&theme=dracula” />
 </center> <br>
 
 ---
